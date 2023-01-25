@@ -4,5 +4,5 @@ The project is from a Coursera Guided Project Course: https://www.coursera.org/p
 Tensorflow version used : 2.9.2
 Dataset acquired from Hugging Face at https://huggingface.co/datasets/emotion
 
-To note: I got to modify the code at some particular instances
+To note: I got to modify the code at some particular instances to suit the dataset for instance.
 
